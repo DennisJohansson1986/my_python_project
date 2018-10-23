@@ -1,1 +1,2 @@
-print("hi there")
+def print_func():
+    print("hi there")
